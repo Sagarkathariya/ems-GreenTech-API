@@ -1,0 +1,6 @@
+@ems_GreenTechAPI_HostAddress = http://localhost:5065
+
+GET {{ems_GreenTechAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
