@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ems-GreenTechAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3f529ddfbbd9f6c9a7723223ea538066505a903")]
 [assembly: System.Reflection.AssemblyProductAttribute("ems-GreenTechAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ems-GreenTechAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,11 @@
 ﻿using ems_GreenTechAPI.Data;
 using ems_GreenTechAPI.Models.Domain;
 using ems_GreenTechAPI.Models.DTO;
+using ems_GreenTechAPI.Repository.Implementation;
 using ems_GreenTechAPI.Repository.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 
 namespace ems_GreenTechAPI.Controllers
 {
@@ -37,10 +39,16 @@ namespace ems_GreenTechAPI.Controllers
                 Id = category.Id,
                 Name = category.Name,
                 UrlHandle = category.UrlHandle,
-
             };
-
             return Ok();
+        }
+
+       
+        [HttpGet]
+        public IActionResult GetAllCategories()
+        {
+            var categories = categoryRepository.GetAllCategories();
+            return Ok(categories);
         }
     }
 }

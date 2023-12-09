@@ -134,3 +134,4 @@ F:\GreenTech\ems\API\ems-GreenTechAPI\ems-GreenTechAPI\obj\Debug\net8.0\refint\e
 F:\GreenTech\ems\API\ems-GreenTechAPI\ems-GreenTechAPI\obj\Debug\net8.0\ems-GreenTechAPI.pdb
 F:\GreenTech\ems\API\ems-GreenTechAPI\ems-GreenTechAPI\obj\Debug\net8.0\ems-GreenTechAPI.genruntimeconfig.cache
 F:\GreenTech\ems\API\ems-GreenTechAPI\ems-GreenTechAPI\obj\Debug\net8.0\ref\ems-GreenTechAPI.dll
+F:\GreenTech\ems\API\ems-GreenTechAPI\ems-GreenTechAPI\obj\Debug\net8.0\ems-GreenTechAPI.sourcelink.json
